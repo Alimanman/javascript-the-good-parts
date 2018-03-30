@@ -1,3 +1,7 @@
-# My Awesome Book
+# 铁路图 语法图 syntax diagrams
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+- 从左边界开始，沿着轨道到右边界。
+- 沿途，你的圆框中遇到的是字面量，在方块中遇到的是规则或描述。
+- 任何沿着轨道能走通的序列都是合法的。
+- 任何不能沿着轨道走通的序列都是非法的。
+- 末端只有一个竖条的条路图，表示允许在任意一对符号中间插入空白。而在末端有两个竖条的铁路图则不允许。
