@@ -33,6 +33,8 @@
 
 - JavaScript中的`{}`代码块无作用域功能。
 
+- switch、while、for和do有一个前置标签label，可以配合break使用。
+
 - if语句视为假的值
   false、null、undefind、空字符串、0、NaN
 
