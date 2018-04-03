@@ -41,6 +41,8 @@
 - for in枚举一个对象的所有属性名。
 
 - do while 和 while的区别在于，前者不管什么条件至少会实行一次。
+
+- return默认返回值是undefined。
   
 
 
