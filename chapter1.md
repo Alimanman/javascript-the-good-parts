@@ -37,4 +37,10 @@
 
 - if语句视为假的值
   false、null、undefind、空字符串、0、NaN
+  
+- for in枚举一个对象的所有属性名。
+
+- do while 和 while的区别在于，前者至少会实行一次。
+  
+
 
