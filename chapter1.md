@@ -48,5 +48,9 @@
 
 #### 表达式 Expressions
   
+- typeof 数组或null，结果是object，这是错误的。
 
+#### 字面量 Literals
+
+#### 函数
 
