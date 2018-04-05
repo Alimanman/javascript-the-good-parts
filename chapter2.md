@@ -23,3 +23,14 @@ var flight = {
 }
 ```
 
+索引和更新
+
+```
+stooge['first_name'];
+stooge.first_name;
+
+stooge['first_name'] = 'Tom';
+stooge.first_name = 'Tom';
+
+```
+
