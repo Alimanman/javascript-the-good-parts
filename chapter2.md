@@ -36,5 +36,11 @@ stooge.first_name = 'Tom';
 
 #### 原型 Prototype
 
+- 每个对象都连接到一个原型对象。
+
+- 通过对象字面量创建的对象都连接到Object.prototype。
+
+- 可以选择某个对象作为它的原型。
+
 
 
