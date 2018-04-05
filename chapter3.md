@@ -11,3 +11,9 @@
 ```
 myfun == myfun.prototype.constructor //true
 ```
+
+#### 函数字面量
+
+```
+var add = function(){};
+```
