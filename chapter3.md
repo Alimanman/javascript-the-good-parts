@@ -38,4 +38,4 @@ var that = this; //解决办法
 
 - 建议首字母大写格式命名变量名。
 
-- new调用，创造一个连接到该函数prototype的新对象，this绑定在新对象上。
+- new来调用，创造一个连接到该函数prototype的新对象，this绑定在新对象上。
