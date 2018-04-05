@@ -12,7 +12,7 @@ var empty_object = {};
 var stooge = {
     'first_name': 'Jerry',
     'last_name': 'Huang'
-}
+};
 
 var flight = {
     ariline: 'Oceanic',
@@ -20,7 +20,7 @@ var flight = {
         time: '2018-04-04',
         city: 'ShangHai'
     }
-}
+};
 ```
 
 索引和更新
@@ -58,16 +58,14 @@ stooge.first_name = 'Tom';
 
 删除不会触及原型
 
+#### 减少全局污染
 
+最小化使用全局变量的方法之一就是只创建一个全局变量。
 
-
-
-
-
-
-
-
-
-
-
-
+```
+var MYAPP = {};
+MYAPPstooge = {
+    'first_name': 'Jerry',
+    'last_name': 'Huang'
+};
+```
