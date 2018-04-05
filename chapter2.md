@@ -50,6 +50,24 @@ stooge.first_name = 'Tom';
  
 - hasOwnProperty检测是否对象独有属性，不会检测原型链。
 
+#### 枚举 Enumeration
+
+- for in
+
+#### 删除
+
+删除不会触及原型
+
+
+
+
+
+
+
+
+
+
+
 
 
 
