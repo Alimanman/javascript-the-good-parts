@@ -34,3 +34,7 @@ stooge.first_name = 'Tom';
 
 ```
 
+#### 原型 Prototype
+
+
+
