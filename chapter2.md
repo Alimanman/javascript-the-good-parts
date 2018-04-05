@@ -40,12 +40,7 @@ stooge.first_name = 'Tom';
 
 - 通过对象字面量创建的对象都连接到Object.prototype。
 
-- 可以选择某个对象作为它的原型 - prototype。
-```
-var a = {...};
-var b = {};
-b.prototype = a;
-```
+- 可以选择某个对象作为它的原型。
 
 - 当对某个对象作出改变时，原型不会改变。
 
