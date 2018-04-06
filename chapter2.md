@@ -62,7 +62,7 @@ stooge.first_name = 'Tom';
 
 ```
 var MYAPP = {};
-MYAPPstooge = {
+MYAPP.stooge = {
     'first_name': 'Jerry',
     'last_name': 'Huang'
 };
